@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\router",
+    "\\src\\vuex",
+    "\\src\\vuex\\actions",
+    "\\src\\vuex\\getters",
+    "\\src\\vuex\\mutations"
+  ],
+  "PreviewInSolutionExplorer": false
+}
